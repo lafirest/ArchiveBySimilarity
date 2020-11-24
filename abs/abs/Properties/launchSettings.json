@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "abs": {
+      "commandName": "Project",
+      "commandLineArgs": " G:\\test\\logger\\logger *.txt 0.5 G:\\test\\logger\\archive"
+    }
+  }
+}
